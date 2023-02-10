@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Crorepati/static/css/main.2cba5bf5.css",
-    "main.js": "/Crorepati/static/js/main.2b27e1fb.js",
+    "main.js": "/Crorepati/static/js/main.766fbeaf.js",
     "static/js/845.748b8401.chunk.js": "/Crorepati/static/js/845.748b8401.chunk.js",
     "static/media/bg.jpg": "/Crorepati/static/media/bg.c137ccd722d64133b4df.jpg",
     "static/media/play.mp3": "/Crorepati/static/media/play.8e5f6d1d81d4e1414b95.mp3",
@@ -9,11 +9,11 @@
     "static/media/wrong.mp3": "/Crorepati/static/media/wrong.e946821894ae9b0a0d6f.mp3",
     "index.html": "/Crorepati/index.html",
     "main.2cba5bf5.css.map": "/Crorepati/static/css/main.2cba5bf5.css.map",
-    "main.2b27e1fb.js.map": "/Crorepati/static/js/main.2b27e1fb.js.map",
+    "main.766fbeaf.js.map": "/Crorepati/static/js/main.766fbeaf.js.map",
     "845.748b8401.chunk.js.map": "/Crorepati/static/js/845.748b8401.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2cba5bf5.css",
-    "static/js/main.2b27e1fb.js"
+    "static/js/main.766fbeaf.js"
   ]
 }
